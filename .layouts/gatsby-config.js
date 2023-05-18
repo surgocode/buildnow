@@ -7,7 +7,7 @@ const siteMetadata = {
     "Another Obsidian template that use gatsby-theme-primer-wiki, Welcome to your new Obsidian Knowledge Base!",
   twitterName: "theowenyoung",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://github.com/surgocode/buildnow",
+  siteUrl: "https://buildtest.surgo.info",
 };
 module.exports = {
   siteMetadata,
