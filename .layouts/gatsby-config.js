@@ -7,7 +7,7 @@ const siteMetadata = {
     "Another Obsidian template that use gatsby-theme-primer-wiki, Welcome to your new Obsidian Knowledge Base!",
   twitterName: "theowenyoung",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://demo-obsidian.owenyoung.com",
+  siteUrl: "https://github.com/surgocode/buildnow",
 };
 module.exports = {
   siteMetadata,
@@ -30,7 +30,7 @@ module.exports = {
         nav: [
           {
             title: "Github",
-            url: "https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/",
+            url: "https://github.com/surgocode/buildnow/",
           },
           {
             title: "Twitter",
@@ -38,7 +38,7 @@ module.exports = {
           },
         ],
         editUrl:
-          "https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/tree/main/",
+          "https://github.com/surgocode/buildnow/tree/main/",
       },
     },
     {
