@@ -19,6 +19,7 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
+        sidebarComponents: ["latest", "tag"],
         name: "content",
         path: `${__dirname}/..`,
         ignore: [`**/\.*/**/*`],
