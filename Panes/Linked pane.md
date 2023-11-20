@@ -1,4 +1,4 @@
-Panes can be linked together. This has two main effects:
+Panes can be linked together! This has two main effects:
 
 - By default, when opening a new [[Preview and edit modes|preview pane]] from an editing pane, the new pane is linked to the old one. This means that any changes you make in the editor will show up in the preview in real time. It also means that scrolling one will scroll the other.
 

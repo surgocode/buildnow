@@ -1,4 +1,4 @@
-There are many ways to drag and drop things around Obsidian to make the experience smoother:
+2There are many ways to drag and drop things around Obsidian to make the experience smoother:
 
 ### Drag panes2
 
