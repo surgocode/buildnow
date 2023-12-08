@@ -1,3 +1,3 @@
 ## FinSum Notes
 
-RK elite level finance skills. 
+RK elite level finance skills!
