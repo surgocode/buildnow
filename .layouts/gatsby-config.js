@@ -29,8 +29,8 @@ module.exports = {
       resolve: "gatsby-theme-primer-wiki",
       options: {
         icon: "./static/logo.png",
-        // sidebarComponents: ["latest", "tag"],
 		sidebarComponents: ["latest", "category", "tag"],		
+		defaultIndexLatestPostCount: 3, // default is 25
         nav: [
           {
             title: "Github",
