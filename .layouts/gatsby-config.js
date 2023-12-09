@@ -29,7 +29,8 @@ module.exports = {
       resolve: "gatsby-theme-primer-wiki",
       options: {
         icon: "./static/logo.png",
-       // sidebarComponents: ["latest", "tag"],
+        // sidebarComponents: ["latest", "tag"],
+		sidebarComponents: ["latest", "category", "tag"],		
         nav: [
           {
             title: "Github",
