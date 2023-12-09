@@ -19,7 +19,7 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        sidebarComponents: ["latest", "tag"],
+       // sidebarComponents: ["latest", "tag"],
         name: "content",
         path: `${__dirname}/..`,
         ignore: [`**/\.*/**/*`],
@@ -29,7 +29,7 @@ module.exports = {
       resolve: "gatsby-theme-primer-wiki",
       options: {
         icon: "./static/logo.png",
-        sidebarComponents: ["latest", "tag"],
+       // sidebarComponents: ["latest", "tag"],
         nav: [
           {
             title: "Github",
