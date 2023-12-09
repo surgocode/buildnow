@@ -31,6 +31,10 @@ module.exports = {
         icon: "./static/logo.png",
 		sidebarComponents: ["latest", "category", "tag"],		
 		defaultIndexLatestPostCount: 3, // default is 25
+		categoryText: "Topics", // Was Categories  
+		latestUpdatedText: "Recently Updated",
+		tagText: "Tags",  
+		shouldShowTagGroupsOnIndex: true, // should show tags list at index page
         nav: [
           {
             title: "Github",
