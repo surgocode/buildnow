@@ -32,7 +32,7 @@ module.exports = {
 		sidebarComponents: ["latest", "category", "tag"],		
 		defaultIndexLatestPostCount: 3, // default is 25
 		categoryText: "Topics", // Was Categories  
-		latestUpdatedText: "Recently Updated",
+		latestUpdatedText: "Recent", // Was "Recently Updated"
 		tagText: "Tags",  
 		shouldShowTagGroupsOnIndex: true, // should show tags list at index page
         nav: [
@@ -63,6 +63,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sitemap`,
     },
+    {
+      resolve: '@mkitio/gatsby-theme-password-protect',
+      options: {
+        password: 'surgowebuild2023' // delete or `undefined` to disable password protection
+      }
+    },	
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {
