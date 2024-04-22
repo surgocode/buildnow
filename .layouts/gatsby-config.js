@@ -66,7 +66,7 @@ module.exports = {
     {
       resolve: '@mkitio/gatsby-theme-password-protect',
       options: {
-        password: 'surgowebuild2023' // delete or `undefined` to disable password protection
+        password: 'surgowebuild2024' // delete or `undefined` to disable password protection
       }
     },	
     {
